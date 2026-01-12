@@ -1,5 +1,9 @@
 # Globalmeta | Digital Strategy and Performance Management
 
+![Globalmeta](https://img.shields.io/badge/Focus-Performance_Marketing-black?style=for-the-badge)
+![Data Driven](https://img.shields.io/badge/Strategy-Data_Driven-black?style=for-the-badge)
+![Excellence](https://img.shields.io/badge/Standards-Corporate_Excellence-black?style=for-the-badge)
+
 ---
 
 ## 🌍 Language / Dil
@@ -15,10 +19,10 @@ Globalmeta, dijital ekosistemde veriye dayalı stratejiler geliştirerek markala
 ### Uzmanlık Alanları
 Globalmeta, karmaşık veri setlerini analiz ederek işletmeler için ölçülebilir sonuçlar üretir:
 
-* **Performans Pazarlaması:** Meta ve Google ekosistemlerinde gelişmiş kampanya mimarisi.
-* **Veri Analitiği:** Ham verinin anlamlı stratejik içgörülere dönüştürülmesi.
+* **Performans Pazarlaması:** Meta ve Google ekosistemlerinde gelişmiş kampanya mimarisi ve optimizasyonu.
+* **Veri Analitiği:** Ham verinin stratejik içgörülere ve iş kararlarına dönüştürülmesi.
 * **Dijital Dönüşüm:** İşletmelerin dijital varlıklarının modernizasyonu ve ölçeklendirilmesi.
-* **ROI Optimizasyonu:** Reklam harcamalarının geri dönüş oranlarını maksimize eden teknik altyapı.
+* **ROI Optimizasyonu:** Reklam harcamalarının geri dönüş oranlarını maksimize eden teknik altyapı çözümleri.
 
 ### Vizyon ve İlkeler
 İş disiplini ve yüksek kalite standartlarını merkeze alan Globalmeta, her projeyi bir dijital varlık yönetimi titizliğiyle ele alır. Amacımız, geçici çözümler yerine kalıcı ve değer yaratan dijital yapılar inşa etmektir.
@@ -33,10 +37,10 @@ Globalmeta is a performance marketing hub that guides brands toward sustainable 
 ### Areas of Expertise
 Globalmeta analyzes complex data sets to produce measurable results for businesses:
 
-* **Performance Marketing:** Advanced campaign architecture within Meta and Google ecosystems.
-* **Data Analytics:** Transformation of raw data into meaningful strategic insights.
+* **Performance Marketing:** Advanced campaign architecture and optimization within Meta and Google ecosystems.
+* **Data Analytics:** Transformation of raw data into strategic insights and business intelligence.
 * **Digital Transformation:** Modernization and scaling of corporate digital assets.
-* **ROI Optimization:** Technical infrastructure designed to maximize return on ad spend.
+* **ROI Optimization:** Technical infrastructure designed to maximize return on ad spend (ROAS).
 
 ### Vision and Principles
 Centering on business discipline and high-quality standards, Globalmeta approaches every project with the precision of high-end asset management. Our goal is to build permanent, value-generating digital structures rather than temporary solutions.
@@ -46,4 +50,4 @@ Centering on business discipline and high-quality standards, Globalmeta approach
 ## İletişim / Contact
 
 🌐 [globalmeta.net](https://www.globalmeta.net/)  
-📧 [info@globalmeta.net](mailto:info@globalmeta.net)
+📧 [hello@globalmeta.net](mailto:hello@globalmeta.net)
